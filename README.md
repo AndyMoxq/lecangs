@@ -2,6 +2,7 @@
 php:7.0 || 8.0
 
 # 使用示例
+composer require lecangs/open-api
 
 ```php
 use Lecangs\OpenApi\Contracts\Config;

@@ -63,9 +63,9 @@ class Response
     /**
      * 获取数据
      *
-     * @return mixed
+     * @return array
      */
-    public function getData()
+    public function getData():array
     {
         return $this->body['data'] ?? [];
     }

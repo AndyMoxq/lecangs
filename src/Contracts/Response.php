@@ -125,7 +125,7 @@ class Response
      */
     public function validate(): void
     {
-        if ($this->getCode() != 200 && !$this->getBody()['success'] ?? '' ) {
+        if ($this->getCode() != 200 && !($this->getBody()['success'] ?? '')) {
             if (isset($this->getBody()['code']) && $this->getBody()['code'] !== '') {
                 $this->setCode($this->getBody()['code']);
                 $message = $this->getBody()['message'];

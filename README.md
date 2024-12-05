@@ -61,7 +61,7 @@ try {
 ## 常量说明
 ApiUri 类中定义了多个可用的 API 地址常量，用于不同的业务场景。
 
-# 示例常量
+## 示例常量
 ```php
 namespace Lecangs\OpenApi\Constants;
 
@@ -76,6 +76,6 @@ class ApiUri {
 
 如有任何问题或建议，请联系 SDK 维护者或提交 issue。
 
-# 许可证
+## 许可证
 
 本项目遵循 MIT 许可证。详细信息请查阅 LICENSE 文件。

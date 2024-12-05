@@ -15,10 +15,8 @@
 composer require lecangs/open-api
 ```
 ## 参考文档
-更多接口详情，请参考乐歌海外仓官方 API 文档：
-```html
-<a href = 'https://app.lecangs.com/wiki?systemType=OMS_CLIENT&id=37'>乐歌海外仓 API 文档</a>
-```
+
+更多接口详情，请参考乐歌海外仓官方 API 文档：[乐歌海外仓 API 文档](https://app.lecangs.com/wiki?systemType=OMS_CLIENT&id=37)
 
 # 使用示例
 

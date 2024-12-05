@@ -1,5 +1,7 @@
 环境要求
-php:7.0 || 8.0
+php > "7.0"
+
+参考文档：https://app.lecangs.com/wiki?systemType=OMS_CLIENT&id=37
 
 # 使用示例
 composer require lecangs/open-api
